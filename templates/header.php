@@ -25,8 +25,9 @@
   <header>
     <!-- place navbar here -->
   </header>
-
+  
     <nav class="navbar navbar-expand navbar-dark bg-dark">
+    <img src="/img/versuet.jpg" alt="logo empresa">
         <ul class="nav navbar-nav">
             <li class="nav-item">
                 <a class="nav-link active" href="#" aria-current="page">Sistema <span class="visually-hidden">(current)</span></a>
